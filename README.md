@@ -1,2 +1,2 @@
 # Lab 6 - Starter
-https://github.com/Glekko/Lab6_Starter/
+https://glekko.github.io/Lab6_Starter/

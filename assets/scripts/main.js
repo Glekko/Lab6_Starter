@@ -111,6 +111,7 @@ function initFormHandler() {
     localStorage.clear();
 
   // B13. TODO - Delete the contents of <main>
+  // Added comment for fixed pull request
     document.querySelector('main').innerHTML = '';
   });
 }
